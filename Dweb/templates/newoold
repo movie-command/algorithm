@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+    <style type = "text/css">
+        #left
+        {width:50%;height:1000px;background:#ca0c16;float:left;}
+        #right
+        {width:50%;background:#9dc75f;height:1000px;float:right;}
+    </style>
+</head>
+<body>
+<div id="left" >NEW USER</div>
+<div id="right">OLD USER</div>
+</body>
+</html>
